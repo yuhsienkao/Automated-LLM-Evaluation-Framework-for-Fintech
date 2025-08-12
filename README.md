@@ -37,7 +37,7 @@ The second stage is a novel **AI-powered evaluation pipeline** that uses top-tie
     3.  **Logical Structure (40%):** The logical flow, coherence, and persuasiveness of the argument.
     4.  **Linguistic Expression (40%):** The clarity, fluency, and professionalism of the generated Chinese text.
 
-***Note: Due to the proprietary nature of the work, the full source code and data files cannot be made public. This repository contains key code snippets, methodology explanations, and serves as a detailed description of the project's architecture and impact. The main scripts `llm_pk_api.py` and `process_evaluations.py` are provided as a demonstration of the system's logic and my coding style.***
+***Note: Due to the proprietary and confidential nature of this work, the source code and data files for this project cannot be made public. This repository serves as a comprehensive description of the project's architecture, methodology, and impact.***
 
 ---
 
